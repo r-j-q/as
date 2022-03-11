@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "智诚话费",
+  "usingComponents": {
+    "carousel": "/components/carousel/carousel",
+    "grid": "/components/grid/grid",
+    "paymentlist": "/components/paymentlist/paymentlist",
+    "notice": "/components/notice/notice"
+  }
+}

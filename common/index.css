@@ -1,0 +1,37 @@
+.textColor{
+	color: #fff;
+}
+.fontSize12{
+	font-size: 24upx;
+}
+.fontSize14{
+	font-size: 28upx;
+}
+.fontSize19{
+	font-size:38rpx
+}
+.fontSize16{
+	font-size: 32upx;
+}
+/* input placehoder 颜色 */
+.phcolor{
+	color: #fff;
+}
+.marginBottom20{
+	margin-bottom: 30upx;
+}
+.paddingTB{
+	padding: 40upx 0;
+}
+/* grids 字体样式 */
+.color1296db{
+	color: #1296db;
+	
+}
+.fontWeight{
+	font-weight: bold;
+}
+.gridsF5F5F5{
+	color: #ccc;
+}
+ 

@@ -1,0 +1,1 @@
+<view class="popupMore data-v-5bb66247"><uni-load-more vue-id="a5489e90-1" status="loading" class="data-v-5bb66247" bind:__l="__l" vue-slots="{{['default']}}">调起支付</uni-load-more></view>

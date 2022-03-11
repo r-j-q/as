@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "backgroundColor": "#66ccff",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#66ccff",
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item"
+  }
+}
